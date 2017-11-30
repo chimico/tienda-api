@@ -1,0 +1,35 @@
+{
+  "name": "tienda-api",
+  "version": "0.1.0",
+  "description": "An ExpressJS API for a store.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chimico/tienda-api.git"
+  },
+  "author": "Felipe Albuquerque",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "helmet": "^3.6.1",
+    "lowdb": "^1.0.0",
+    "method-override": "^2.3.9"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^8.0.2",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-register": "^6.24.1",
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "editorconfig": "^0.15.0",
+    "eslint": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-eslint": "^4.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "mocha": "^4.0.1"
+  }
+}
