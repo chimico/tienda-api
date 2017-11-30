@@ -2,3 +2,4 @@
 --timeout 10000
 --colors
 --reporter nyan
+--exit
